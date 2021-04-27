@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/css/0.5ac140b4.chunk.css": "/SKJLogin/static/css/0.5ac140b4.chunk.css",
+    "static/js/0.02c1b397.chunk.js": "/SKJLogin/static/js/0.02c1b397.chunk.js",
+    "static/js/0.02c1b397.chunk.js.map": "/SKJLogin/static/js/0.02c1b397.chunk.js.map",
+    "main.css": "/SKJLogin/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/SKJLogin/static/js/main.450c90cd.chunk.js",
+    "main.js.map": "/SKJLogin/static/js/main.450c90cd.chunk.js.map",
+    "runtime-main.js": "/SKJLogin/static/js/runtime-main.c3bcd6dc.js",
+    "runtime-main.js.map": "/SKJLogin/static/js/runtime-main.c3bcd6dc.js.map",
+    "static/css/3.fd2873a2.chunk.css": "/SKJLogin/static/css/3.fd2873a2.chunk.css",
+    "static/js/3.7bb39cd0.chunk.js": "/SKJLogin/static/js/3.7bb39cd0.chunk.js",
+    "static/js/3.7bb39cd0.chunk.js.map": "/SKJLogin/static/js/3.7bb39cd0.chunk.js.map",
+    "static/js/4.3ff22df7.chunk.js": "/SKJLogin/static/js/4.3ff22df7.chunk.js",
+    "static/js/4.3ff22df7.chunk.js.map": "/SKJLogin/static/js/4.3ff22df7.chunk.js.map",
+    "static/js/5.beaa248b.chunk.js": "/SKJLogin/static/js/5.beaa248b.chunk.js",
+    "static/js/5.beaa248b.chunk.js.map": "/SKJLogin/static/js/5.beaa248b.chunk.js.map",
+    "static/js/6.91f16566.chunk.js": "/SKJLogin/static/js/6.91f16566.chunk.js",
+    "static/js/6.91f16566.chunk.js.map": "/SKJLogin/static/js/6.91f16566.chunk.js.map",
+    "static/js/7.7a5f7cad.chunk.js": "/SKJLogin/static/js/7.7a5f7cad.chunk.js",
+    "static/js/7.7a5f7cad.chunk.js.map": "/SKJLogin/static/js/7.7a5f7cad.chunk.js.map",
+    "index.html": "/SKJLogin/index.html",
+    "static/css/0.5ac140b4.chunk.css.map": "/SKJLogin/static/css/0.5ac140b4.chunk.css.map",
+    "static/css/3.fd2873a2.chunk.css.map": "/SKJLogin/static/css/3.fd2873a2.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/SKJLogin/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/0.02c1b397.chunk.js.LICENSE.txt": "/SKJLogin/static/js/0.02c1b397.chunk.js.LICENSE.txt",
+    "static/js/3.7bb39cd0.chunk.js.LICENSE.txt": "/SKJLogin/static/js/3.7bb39cd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3bcd6dc.js",
+    "static/css/3.fd2873a2.chunk.css",
+    "static/js/3.7bb39cd0.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.450c90cd.chunk.js"
+  ]
+}
