@@ -5,14 +5,7 @@ import {
     CCard,
     CCardBody,
     CCardHeader,
-    CCol,
     CDataTable,
-    CRow,
-    CDropdown,
-    CDropdownToggle,
-    CDropdownMenu,
-    CDropdownItem,
-    CTooltip,
     CCollapse,
     CContainer
 } from "@coreui/react";

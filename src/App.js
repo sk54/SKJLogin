@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Switch, BrowserRouter, HashRouter, Redirect, NotFoundRoute } from "react-router-dom";
+import { Route, Switch, Redirect, HashRouter } from "react-router-dom";
 import './App.css';
 
 const Login = React.lazy(() => import("./Pages/Login"));
